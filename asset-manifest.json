@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Plan-With-Suraj/static/css/main.48ead017.css",
+    "main.js": "/React_Plan-With-Suraj/static/js/main.50707ca3.js",
+    "index.html": "/React_Plan-With-Suraj/index.html",
+    "main.48ead017.css.map": "/React_Plan-With-Suraj/static/css/main.48ead017.css.map",
+    "main.50707ca3.js.map": "/React_Plan-With-Suraj/static/js/main.50707ca3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ead017.css",
+    "static/js/main.50707ca3.js"
+  ]
+}
